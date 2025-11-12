@@ -1,0 +1,5 @@
+soundcard
+numpy
+faster-whisper
+# Optional: specify torch/cuda versions if using GPU, e.g.:
+# torch>=2.0.0
